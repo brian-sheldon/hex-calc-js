@@ -5,7 +5,7 @@ Rename the file "calc" to whatever name you wish to use for this calculator and 
 
 ### Usage
 
-calc value1 value2 [ + - x / and or xor ]
+calc value1 value2 [ + - x / and or xor ]  ; default +
 
 ### Example Output
 ```
